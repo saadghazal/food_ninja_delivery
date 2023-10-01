@@ -1,0 +1,80 @@
+{
+  "restId": "1",
+  "restBranch": "https://hips.hearstapps.com/del.h-cdn.co/assets/17/22/1-big-chicken.jpg",
+  "restName": "KFC",
+  "restLogo": "https://upload.wikimedia.org/wikipedia/sco/thumb/b/bf/KFC_logo.svg/1200px-KFC_logo.svg.png",
+  "restMeals": [
+    {
+      "mealId": "1",
+      "mealName": "Snack Box",
+      "mealPrice": 3.95,
+      "mealDescription": "2 pieces of chicken, 1 regular fries, 1 Bun bread ,1 regular drink",
+      "mealImage": "https://storage.eu.content-cdn.io/am-resources/3dc06f42-e909-43ba-9e47-a5782d07e34c/Images/ProductImages/Source/SNACK-BOX.png",
+      "inPopularMenu": true,
+      "category": "Meal"
+    },
+    {
+      "mealId": "2",
+      "mealName": "Mighty Zinger Box",
+      "mealPrice": 6.30,
+      "mealDescription": "Mighty zinger sandwich +1 pc Chicken + Pepsi + Regular French Fries + 1 Bun + Coleslaw",
+      "mealImage": "https://storage.eu.content-cdn.io/am-resources/3dc06f42-e909-43ba-9e47-a5782d07e34c/Images/ProductImages/Source/MIGHTY-ZINGER-BOX.png",
+      "inPopularMenu": false,
+      "category": "Meal"
+    },
+    {
+      "mealId": "3",
+      "mealName": "Strips Rice Meal",
+      "mealPrice": 4.20,
+      "mealDescription": "400 Gram Of Rice, 4 Crispy Strips Pieces And Sauce",
+      "mealImage": "https://storage.eu.content-cdn.io/am-resources/3dc06f42-e909-43ba-9e47-a5782d07e34c/Images/ProductImages/Source/STRIPS-RICE-MEAL.png",
+      "inPopularMenu": false,
+      "category": "Meal"
+    },
+    {
+      "mealId": "4",
+      "mealName": "Twister",
+      "mealPrice": 1.95,
+      "mealDescription": "2 Pieces Crispy Strips In Tortilla Bread, Pepper Mayonnaise, Lettuce, Tomato , Fries",
+      "mealImage": "https://storage.eu.content-cdn.io/am-resources/3dc06f42-e909-43ba-9e47-a5782d07e34c/Images/ProductImages/Source/TWISTER.png",
+      "inPopularMenu": false,
+      "category": "Sandwich"
+    },
+    {
+      "mealId": "5",
+      "mealName": "Dynamite Burger Combo",
+      "mealPrice": 4.25,
+      "mealDescription": "Burger,fries,Drink medium size",
+      "mealImage": "https://storage.eu.content-cdn.io/am-resources/3dc06f42-e909-43ba-9e47-a5782d07e34c/Images/ProductImages/Source/DynamiteCombo_300X300px.png",
+      "inPopularMenu": false,
+      "category": "Burgers"
+    },
+    {
+      "mealId": "6",
+      "mealName": "9 PCS DIPS BUCKET",
+      "mealPrice": 16.30,
+      "mealDescription": "9 PCS Chicken +6 Crispy strips + 1 Family Fries +1 Family Coleslaw +1L Drink + 3 Buns + 4 Dipping sauce (Sweet chili + garlic + Colonels + Dynamite)",
+      "mealImage": "https://storage.eu.content-cdn.io/am-resources/3dc06f42-e909-43ba-9e47-a5782d07e34c/Images/ProductImages/Source/Dips%20Bucket_300x300.png",
+      "inPopularMenu": false,
+      "category": "Family"
+    },
+    {
+      "mealId": "7",
+      "mealName": "15 PCS DIPS BUCKET",
+      "mealPrice": 23.40,
+      "mealDescription": "15 PCS Chicken +10 Crispy strips + 1 Family Fries +1 Family Coleslaw +1L Drink + 4 Buns + 5 Dipping sauce (Sweet Chili + Garlic + Colonel's + Dynamite + BBQ)",
+      "mealImage": "https://storage.eu.content-cdn.io/am-resources/3dc06f42-e909-43ba-9e47-a5782d07e34c/Images/ProductImages/Source/Dips%20Bucket_300x300.png",
+      "inPopularMenu": false,
+      "category": "Family"
+    },
+    {
+      "mealId": "8",
+      "mealName": "21 PCS DIPS BUCKET",
+      "mealPrice": 29.90,
+      "mealDescription": "21 PCS Chicken +14 Crispy strips + 2 Family Fries +2 Family Coleslaw +2 L drink + 7 Buns + 7 Dipping sauce (Sweet Chili + Garlic + Colonel's + 2 Dynamite +2 BBQ)",
+      "mealImage": "https://storage.eu.content-cdn.io/am-resources/3dc06f42-e909-43ba-9e47-a5782d07e34c/Images/ProductImages/Source/Dips%20Bucket_300x300.png",
+      "inPopularMenu": false,
+      "category": "Family"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "restId": "4",
+  "restBranch": "https://www.foodbusinessnews.net/ext/resources/2021/2/SubwayRestaurant_Lead.jpg?t=1614005729&width=1080.png",
+  "restName": "SubWay",
+  "restLogo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Subway_2016_logo.svg/2560px-Subway_2016_logo.svg.png",
+  "restMeals": [
+    {
+      "mealId": "1",
+      "mealName": "Chicken Teriyaki",
+      "mealPrice": 7.80,
+      "mealDescription": "This gourmet specialty is a flavorful blend of tender teriyaki glazed chicken strips . Served hot & toasted on freshly baked bread.",
+      "mealImage": "https://www.subway.com/ns/images/menu/JOR/ENG/RPLC-all-sandwiches-sweet-onion-chicken-teriyaki-594x334_PR.jpg",
+      "inPopularMenu": true,
+      "category": "Meal"
+    },
+    {
+      "mealId": "2",
+      "mealName": "Chicken Tikka",
+      "mealPrice": 6.50,
+      "mealDescription": "Flavorful blend of tender tikka chicken strips.Served hot & toasted on freshly baked bread.",
+      "mealImage": "https://www.subway.com/ns/images/menu/JOR/ENG/RPLC-Chicken_Tikka_594x334_PR.jpg",
+      "inPopularMenu":false ,
+      "category": "Meal"
+    },
+    {
+      "mealId": "3",
+      "mealName": "Turkey Breast",
+      "mealPrice": 5.50,
+      "mealDescription": "Succulent sliced turkey breast! No need to hold back. You can gobble it up guilt free!.",
+      "mealImage": "https://www.subway.com/ns/images/menu/JOR/ENG/menu-category-sandwich-turkeybreast-234x140_PR.jpg",
+      "inPopularMenu": false,
+      "category": "Meal"
+    },
+    {
+      "mealId": "4",
+      "mealName": "Tuna",
+      "mealPrice":5.00,
+      "mealDescription": "Bite into it, and experience flavour that's as fresh as an ocean breeze. Submerge yourself in its waves of unique taste!.",
+      "mealImage": "https://www.subway.com/ns/images/menu/JOR/ENG/RPLC-all-sandwiches-tuna-594x334_PR.jpg",
+      "inPopularMenu": false,
+      "category": "Sandwich"
+    },
+    {
+      "mealId": "5",
+      "mealName": "Spicy Italian",
+      "mealPrice": 7.00,
+      "mealDescription": "Thin slices of salami and pepperoni.Mmmmmm, it’ll just melt in your mouth.",
+      "mealImage": "https://www.subway.com/ns/images/menu/JOR/ENG/RPLC-Spicy_Italian_594x334_PR.jpg",
+      "inPopularMenu": false,
+      "category": "Sandwich"
+    }
+
+  ]
+}

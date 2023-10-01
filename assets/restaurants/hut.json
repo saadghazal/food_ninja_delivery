@@ -1,0 +1,54 @@
+{
+  "restId": "3",
+  "restBranch": "https://i.pinimg.com/originals/8d/b4/e2/8db4e2ff4a5b6343fc9baa33a7ebe388.png",
+  "restName": "Pizza Hut",
+  "restLogo": "https://upload.wikimedia.org/wikipedia/sco/thumb/d/d2/Pizza_Hut_logo.svg/2177px-Pizza_Hut_logo.svg.png",
+  "restMeals": [
+    {
+      "mealId": "1",
+      "mealName": "Hot Stuff Beef",
+      "mealPrice": 9.75,
+      "mealDescription": "Turn up the heat with juicy Beef, Sliced onions, Tomatoes and Spicy green chilies.",
+      "mealImage": "https://images.deliveryhero.io/image/talabat/Menuitems/Super-suprem_636208712740242243.jpg",
+      "inPopularMenu": true,
+      "category": "Meal"
+    },
+    {
+      "mealId": "2",
+      "mealName": "Pepperoni",
+      "mealPrice": 9.75,
+      "mealDescription": "One of our all time specialties. A meaty feast of double Pepperoni Mozzarella and Tomato sauce.",
+      "mealImage": "https://storage.eu.content-cdn.io/cdn-cgi/image/%7Bwidth%7D,%7Bheight%7D,quality=75,format=auto,fit=cover,g=top/am-resources/c79bc8ac-4c69-460f-829b-4d40568d0cca/Images/ProductImages/Large/Classic_Pepperoni_showcase-min1.png",
+      "inPopularMenu": true,
+      "category": "Meal"
+    },
+    {
+      "mealId": "3",
+      "mealName": "Grilled Chicken",
+      "mealPrice": 10.50,
+      "mealDescription": "Dig in to our succulent pieces of grilled chicken, Green peppers, Onions and fresh Tomatoes.",
+      "mealImage": "https://storage.eu.content-cdn.io/cdn-cgi/image/%7Bwidth%7D,%7Bheight%7D,quality=75,format=auto,fit=cover,g=top/am-resources/c79bc8ac-4c69-460f-829b-4d40568d0cca/Images/ProductImages/Large/Spicy-Chicken-Ranch-021018.jpg",
+      "inPopularMenu": false,
+      "category": "Meal"
+    },
+    {
+      "mealId": "4",
+      "mealName": "BBQ Chicken",
+      "mealPrice":9.75,
+      "mealDescription": "Chicken BBQ pizza : chicken , BBQ sauce , Onion.",
+      "mealImage": "https://a.storyblok.com/f/49069/1800x1800/c95594eb81/premium-bbq-chicken-pizza.jpg",
+      "inPopularMenu": false,
+      "category": "Meal"
+    },
+    {
+      "mealId": "5",
+      "mealName": "Meat Lovers",
+      "mealPrice": 9.75,
+      "mealDescription": "A mixture of Pepperoni slices & Beef topped with melting Mozzarella cheese.",
+      "mealImage": "https://storage.eu.content-cdn.io/am-resources/c79bc8ac-4c69-460f-829b-4d40568d0cca/Images/ProductImages/Large/meatlover1.png",
+      "inPopularMenu": false,
+      "category": "Meal"
+    }
+
+  ]
+}

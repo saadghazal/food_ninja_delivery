@@ -1,0 +1,80 @@
+{
+  "restId": "2",
+  "restBranch": "https://cdn2.hubspot.net/hubfs/2095495/1_Property%20Australia/2019/11.%20NOVEMBER/3%20Green%20Square.jpg",
+  "restName": "McDonald's",
+  "restLogo": "https://1000logos.net/wp-content/uploads/2017/03/McDonalds-Logo-1968.png",
+  "restMeals": [
+    {
+      "mealId": "1",
+      "mealName": "Quarter Pounder With Cheese",
+      "mealPrice": 3.80,
+      "mealDescription": "A quarter-pound patty of 100% beef, with two slices of cheese, onions, pickles, mustard and a dollop of tomato ketchup in a sesame seed bun,custom size drink and fires.",
+      "mealImage": "https://mc-menu.com/images/quarter-pounder-with-cheese-meal.jpg",
+      "inPopularMenu": false,
+      "category": "Meal"
+    },
+    {
+      "mealId": "2",
+      "mealName": "Big Mac",
+      "mealPrice": 4.00,
+      "mealDescription": "Big Mac, Coca-Cola (Medium), World Famous Fries (Medium)",
+      "mealImage": "https://mcdonalds.com.pk/wp-content/uploads/2022/08/02-Big-Mac.png",
+      "inPopularMenu": false,
+      "category": "Meal"
+    },
+    {
+      "mealId": "3",
+      "mealName": "Big Tasty",
+      "mealPrice": 5.00,
+      "mealDescription": "Big Tasty, World Famous Fries (Medium), Coca Cola (Medium)",
+      "mealImage": "https://s7d1.scene7.com/is/image/mcdonalds/bigtastymeal:1-3-product-tile-desktop?wid=765&hei=472&dpr=off",
+      "inPopularMenu": true,
+      "category": "Meal"
+    },
+    {
+      "mealId": "4",
+      "mealName": "Grand Chicken Special",
+      "mealPrice":5.00,
+      "mealDescription": "A thick, crispy Halal chicken patty topped with a handful of crispy lettuce, rocca, juicy tomato slices, two slices of Emmental cheese and a slice of chicken roll, accompanied by a grainy, gourmet dressing sauce - all held together by a soft, water split bun. Coca Cola (Medium),World Famous Fries (Medium).",
+      "mealImage": "https://hungerstation.com/_next/image?url=https%3A%2F%2Fhsaa.hsobjects.com%2Fh%2Fmenuitems%2Fimages%2F000%2F835%2F933%2F21cd0705a3ae37b995530a462a97deb6-size1200.png&w=256&q=75.png",
+      "inPopularMenu": true,
+      "category": "Meal"
+    },
+    {
+      "mealId": "5",
+      "mealName": "Beef Burger Happy Meal",
+      "mealPrice": 2.00,
+      "mealDescription": "Burger,fries,Drink medium size",
+      "mealImage": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/HM-Beefburger.png",
+      "inPopularMenu": false,
+      "category": "Happy Meal"
+    },
+    {
+      "mealId": "6",
+      "mealName": "McFlurry Oreo",
+      "mealPrice": 1.5,
+      "mealDescription": "A creamy, sweet McDonald’s McFlurry® with vanilla soft serve with OREO® Cookies mixed in.",
+      "mealImage": "https://s7d1.scene7.com/is/image/mcdonalds/t-oreo-mcflurry-snack:1-3-product-tile-desktop?wid=765&hei=472&dpr=off",
+      "inPopularMenu": false,
+      "category": "Desserts"
+    },
+    {
+      "mealId": "7",
+      "mealName": "McFlurry KitKat",
+      "mealPrice": 1.5,
+      "mealDescription": "A creamy, sweet McDonald’s McFlurry with vanilla soft serve with KitKat Cookies mixed in.",
+      "mealImage": "https://www.mcdonalds.it/sites/default/files/products/mcflurry-kit-kat--isolated_0.png",
+      "inPopularMenu": false,
+      "category": "Desserts"
+    },
+    {
+      "mealId": "8",
+      "mealName": "Share Box",
+      "mealPrice": 12.00,
+      "mealDescription": "Share and enjoy our iconic items at a great price! Pick 2 sandwiches from Big Mac (Beef/Chicken) and McChicken® + 2 sandwiches from Beef Burger, Cheeseburger and Chicken MacDo + 2 regular Fries + 1.25 liter Coke.",
+      "mealImage": "https://www.mcdonalds.eg/Cms_Data/Contents/En/Media/images/Menu/large-Image/Share-Box.png",
+      "inPopularMenu": false,
+      "category": "Family"
+    }
+  ]
+}
